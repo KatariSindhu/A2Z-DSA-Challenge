@@ -39,10 +39,10 @@ I have created a strict schedule to cover all the essential topics systematicall
 | **Step 17: Tries** | 13-02-2026 | 14-02-2026 | 4 Problems/Day |
 | **Step 18: Strings (Advanced)** | 15-02-2026 | 17-02-2026 | 4 Problems/Day |
 
----
-
-Let the challenge begin! Wish me luck. 🎯
-
 ## Repository Structure
 
 To maintain clarity and make navigation easy, the solutions will be organized into folders corresponding to each step of the DSA sheet.
+
+---
+
+Let the challenge begin! Wish me luck. 🎯
